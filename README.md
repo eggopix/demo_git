@@ -1,3 +1,4 @@
 # demo_git
-Une démo de git
-// Add modifications on my local machine
+Une démo de 
+// Add modifications on my ULTRA local machine
+welcome to the third add of content
